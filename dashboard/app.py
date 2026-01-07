@@ -4,7 +4,7 @@ import pyspark
 from delta import configure_spark_with_delta_pip
 import plotly.express as px 
 
-BASE_DIR = '/home/omarcocaja/Área de trabalho/portfolio' # Caminho base para encontrar a pasta do datalake
+BASE_DIR = '/home/thiagoferreira/Área de trabalho/portfolio' # Caminho base para encontrar a pasta do datalake
 DATALAKE_PATH = f"{BASE_DIR}/datalake"
 GOLD_PATH = f"{DATALAKE_PATH}/gold"
 
