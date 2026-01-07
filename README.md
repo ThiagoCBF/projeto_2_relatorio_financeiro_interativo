@@ -1,6 +1,6 @@
 # Relatório Financeiro Interativo com Airflow, Spark e Streamlit
 
-Este projeto simula uma arquitetura de dados moderna com ingestão em batch e construção de relatórios financeiros interativos. O pipeline completo percorre as camadas **bronze**, **silver** e **gold**, com orquestração via **Apache Airflow**, processamento com **PySpark** e visualização com **Streamlit**.
+Este projeto representa uma arquitetura moderna de dados, simulando ingestão em batch e a geração de relatórios financeiros interativos. O pipeline percorre as camadas **bronze, silver e gold**, utilizando **Apache Airflow** para orquestração, **PySpark** para processamento e **Streamlit** para visualização dos dados..
 
 ---
 
