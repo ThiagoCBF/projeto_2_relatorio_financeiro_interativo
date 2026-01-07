@@ -78,5 +78,5 @@ Este projeto está licenciado sob a licença **MIT** e é livre para estudo e cu
 
 ## 📬 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/marco-caja)  
-- [Instagram](https://www.instagram.com/omarcocaja)
+- [LinkedIn]([https://www.linkedin.com/in/thiago-cbferreira/])  
+- [GitHub]([https://github.com/ThiagoCBF])
