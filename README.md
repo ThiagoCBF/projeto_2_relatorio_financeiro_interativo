@@ -21,9 +21,7 @@ projeto_2_relatorio_financeiro_interativo/
 │
 ├── dashboard/
 │   └── app.py                         # Aplicação Streamlit com os relatórios financeiros interativos
-│
-├── imagens/
-│   └── *.png                          # Capturas de tela da aplicação
+│                         
 │
 ├── requirements.txt                   # Bibliotecas necessárias
 └── README.md                          # Este arquivo
